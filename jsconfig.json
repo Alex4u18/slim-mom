@@ -1,7 +1,7 @@
 {
   "name": "slim-mom",
   "private": true,
-  "homepage": "https://roxananecsoi.github.io/slim-mom/",
+  "homepage": "http://localhost:3002/slim-mom",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
     "@testing-library/jest-dom": "^5.16.3",
